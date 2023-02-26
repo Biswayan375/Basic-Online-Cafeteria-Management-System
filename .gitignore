@@ -1,0 +1,9 @@
+# specific for this project
+SQL/
+.metadata/
+
+# maybe a standard .gitignore for all java projects
+build/
+*.class
+*.jar
+*.war
